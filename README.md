@@ -8,7 +8,7 @@
 
 - 📫 How to reach me *bilalkashan03@gmail.com*
 
-- 📄 Know about my experiences [https://github.com/bilalkashan/Bilal-kashan/blob/main/Resume-Bilal Kashan.pdf](https://github.com/bilalkashan/Bilal-Kashan/blob/main/Resume-Bilal%20Kashan.pdf)
+- 📄 Know about my experiences [https://github.com/bilalkashan/Bilal-kashan/blob/main/Resume-Bilal Kashan.pdf](https://github.com/bilalkashan/bilalKashan/blob/main/Resume-Bilal%20Kashan.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
