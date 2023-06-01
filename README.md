@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Bilal Kashan</h1>
-<h3 align="center">An enthusiastic and devoted student of Computer Science.</h3>
+<h3 align="center">An enthusiastic and devoted Student of Computer Science.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omratnani&label=Profile%20views&color=0e75b6&style=flat" alt="omratnani" /> </p>
 
-- 🌱 I’m currently learning *Bechlors of Computer Science at SZABIST Karachi.*
+- 🌱 I’m currently learning *Bachelor of Computer Science at SZABIST Karachi.*
 
 - 👨‍💻 All of my projects are available at [https://github.com/bilalkashan/Projects](https://github.com/bilalkashan/Projects))
 
